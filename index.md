@@ -3,7 +3,7 @@
 ## How does this affect you?
 
 ### Teams
-I will be checking my Teams messages hourly, so my responses may be delayed. If your message is time-sensitive/urgent. Please give me a call on Teams. 
+I will be checking my Teams messages periodically, so my responses may be delayed. If your message is time-sensitive/urgent. Please give me a call on Teams. 
 
 ### Email
 I will be responding to emails in the morning, noon, and COB. 

@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /regional-buildathon-readiness/
+Disallow: /reporting_lab
